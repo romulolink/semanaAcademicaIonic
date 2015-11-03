@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <widget id="com.ionicframework.semanaacademicaionic974360" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-  <name>semanaAcademicaIonic</name>
+  <name>semana Academica 2015</name>
   <description>
         An Ionic Framework and Cordova project.
     </description>
-  <author email="hi@ionicframework" href="http://ionicframework.com/">
-      Ionic Framework Team
+  <author email="romulolink@gmail.com" href="http://www.bilac.com.br/">
+     8CCO - Bilac
     </author>
   <content src="index.html"/>
   <access origin="*"/>

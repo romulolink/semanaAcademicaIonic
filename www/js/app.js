@@ -48,13 +48,11 @@ angular.module('starter', ['ionic', 'starter.controllers', 'starter.services'])
         controller: 'DashCtrl'
       }
     }
-  })
-
-  .state('tab.chats', {
+  }).state('tab.chats', {
       url: '/chats',
       views: {
         'tab-chats': {
-          templateUrl: 'templates/tab-chats.html',
+          templateUrl: 'templates/palestras-12-11.html',
           controller: 'ChatsCtrl'
         }
       }
